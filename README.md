@@ -1,0 +1,1 @@
+# js-0002-manual-dynamodb-load-test-practice
