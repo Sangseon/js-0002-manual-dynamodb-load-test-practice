@@ -1,0 +1,17 @@
+{
+  "name": "pre_warm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1479.0",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.1"
+  }
+}
